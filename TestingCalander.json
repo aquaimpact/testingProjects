@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "eventName": "Testing Date",
+        "eventDateMap": null,
+        "eventTypeID": 1,
+        "eventStartDateTime": "/Date(1591718400000)/",
+        "eventEndDateTime": "/Date(1591718400000)/",
+        "EventType": null
+    },
+    {
+        "id": 2,
+        "eventName": "Testting Date2",
+        "eventDateMap": null,
+        "eventTypeID": 2,
+        "eventStartDateTime": "/Date(1591718400000)/",
+        "eventEndDateTime": "/Date(1591718400000)/",
+        "EventType": null
+    }
+]
