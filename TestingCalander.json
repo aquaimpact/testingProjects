@@ -6,6 +6,7 @@
         "eventTypeID": 1,
         "eventStartDateTime": "/Date(1591718400000)/",
         "eventEndDateTime": "/Date(1591718400000)/",
+        "Description": "Testing Data is a testing Date",
         "EventType": null
     },
     {
@@ -15,6 +16,7 @@
         "eventTypeID": 2,
         "eventStartDateTime": "/Date(1591718400000)/",
         "eventEndDateTime": "/Date(1591718400000)/",
+        "Description": " Testing date 2 is a follow up of testing date",
         "EventType": null
     }
 ]
