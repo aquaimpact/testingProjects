@@ -1,16 +1,6 @@
 [
     {
         "id": 1,
-        "eventName": "Welcome back to CONNECT!",
-        "eventDateMap": null,
-        "eventTypeID": 1,
-        "eventStartDateTime": "/Date(1594094400000)/",
-        "eventEndDateTime": "/Date(1594094400000)/",
-        "Description": "Theme: 6. Moses and Exodus\nB.V.M: Check above\nListen: Genesis 37-Exodus 10\nHttp://www.biblegateway.com/audio/mclean/niv/Gen.37\n\nHihi, this month we will be focusing on chapter 6 From Dust to Glory Series during our Bible study time. We will try a slightly different approach to his season study. 📖Looking forward to your sharing and learning together... online.\n\nPs Will 😎",
-        "EventType": null
-    },
-    {
-        "id": 2,
         "eventName": "July Announcement 16/7/2020",
         "eventDateMap": null,
         "eventTypeID": 1,
@@ -18,5 +8,16 @@
         "eventEndDateTime": "/Date(1594872000000)/",
         "Description": "We will be continuing the CG bible study this week online at 3.30pm.\n\nLastly, please sign up the August SSA workshop by this Sat to get the private ZOOM link.",
         "EventType": null
+    },
+    {
+        "id": 2,
+        "eventName": "Welcome back to CONNECT!",
+        "eventDateMap": null,
+        "eventTypeID": 1,
+        "eventStartDateTime": "/Date(1594094400000)/",
+        "eventEndDateTime": "/Date(1594094400000)/",
+        "Description": "Theme: 6. Moses and Exodus\nB.V.M: Check above\nListen: Genesis 37-Exodus 10\nHttp://www.biblegateway.com/audio/mclean/niv/Gen.37\n\nHihi, this month we will be focusing on chapter 6 From Dust to Glory Series during our Bible study time. We will try a slightly different approach to his season study. 📖Looking forward to your sharing and learning together... online.\n\nPs Will 😎",
+        "EventType": null
     }
+    
 ]
