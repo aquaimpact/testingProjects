@@ -1,6 +1,16 @@
 [
     {
         "id": 1,
+        "eventName": "July Announcement 22/7/2020",
+        "eventDateMap": null,
+        "eventTypeID": 1,
+        "eventStartDateTime": "/Date(1594872000000)/",
+        "eventEndDateTime": "/Date(1594872000000)/",
+        "Description": "This week is our CG Freestyle week. Please check with your CG on how you guys want to spend it together. See you in our upcoming August CONNECT (SSA workshop: only for people who sign up)",
+        "EventType": null
+    },
+    {
+        "id": 2,
         "eventName": "July Announcement 16/7/2020",
         "eventDateMap": null,
         "eventTypeID": 1,
@@ -10,7 +20,7 @@
         "EventType": null
     },
     {
-        "id": 2,
+        "id": 3,
         "eventName": "Welcome back to CONNECT!",
         "eventDateMap": null,
         "eventTypeID": 1,
