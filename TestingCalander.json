@@ -1,6 +1,16 @@
 [
     {
         "id": 1,
+        "eventName": "August Announcement 7/8/2020",
+        "eventDateMap": null,
+        "eventTypeID": 1,
+        "eventStartDateTime": "/Date(1596110400000)/",
+        "eventEndDateTime": "/Date(1596110400000)/",
+        "Description": "This week we will have our open topic during our Bible study CG. Please check with your leaders if you need to prepare anything. Have a exciting discussion time.",
+        "EventType": null
+    },
+    {
+        "id": 2,
         "eventName": "July Announcement 30/7/2020",
         "eventDateMap": null,
         "eventTypeID": 1,
